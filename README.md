@@ -1,2 +1,1 @@
-# etech-mavenApp-ba
-Dockerized App
+# maven-etech-application
